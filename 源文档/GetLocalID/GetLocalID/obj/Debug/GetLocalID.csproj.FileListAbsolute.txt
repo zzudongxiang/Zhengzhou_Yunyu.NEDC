@@ -1,0 +1,9 @@
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\bin\Debug\GetLocalID.exe.config
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\obj\Debug\GetLocalID.Form1.resources
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\obj\Debug\GetLocalID.Properties.Resources.resources
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\obj\Debug\GetLocalID.csproj.GenerateResource.Cache
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\bin\Debug\GetLocalID.exe
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\bin\Debug\GetLocalID.pdb
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\obj\Debug\GetLocalID.exe
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\obj\Debug\GetLocalID.pdb
+C:\Users\Berney\Desktop\GetLocalID\GetLocalID\obj\Debug\GetLocalID.csprojResolveAssemblyReference.cache
